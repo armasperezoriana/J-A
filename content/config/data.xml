@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dataServer>
+	<route>http://127.0.0.1/wallet/</route>
+	<version>1.0.0</version>
+	<dir>content/controllers/</dir>
+	<conf>config/</conf>
+	<model>content/models/</model>
+	<index>homepage</index>
+	<ext>Controller.php</ext>
+	<theme>assets</theme>
+	<server>localhost</server>
+	<dbname>j_a</dbname>
+	<user>root</user>
+	<pass></pass>
+	<views>content/views/</views>
+	<tipodb>mysql</tipodb>
+	<backup>content/backup/</backup>
+</dataServer>
